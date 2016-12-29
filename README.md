@@ -1,3 +1,6 @@
 # jandumke.github.io
 
-test
+
+https://jekyllrb.com/docs/pages/
+
+https://jekyllrb.com/docs/posts/
